@@ -12,6 +12,7 @@ public class TheWrongWayCowTest {
     for (int i = 0; i < field.length; i++) {
       System.out.println(new String(field[i]));
     }
+    System.out.println();
     return field;
   }
   
